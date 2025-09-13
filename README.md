@@ -28,6 +28,9 @@ A comprehensive full-stack school payment management system built with React.js 
 
 ## 🚀 Live Demo
 
+-**Frontend Start Command**:npx react-scripts start
+-**Backend Start Command**:nest start
+
 - **Frontend**: [https://school-payment-dashboard.netlify.app](https://your-frontend-url)
 - **Backend API**: [https://school-payment-api.herokuapp.com](https://your-backend-url)
 
