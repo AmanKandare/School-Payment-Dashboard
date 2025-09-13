@@ -473,9 +473,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@AmanKandare](https://github.com/AmanKandare)
+- LinkedIn: [Your LinkedIn](www.linkedin.com/in/aman-kandare)
+- Email: kandareaman78@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -487,7 +487,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email support@yourproject.com or create an issue in this repository.
+For support, kandareaman78@gmail.com
 
 ---
 
